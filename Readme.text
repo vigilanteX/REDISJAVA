@@ -1,0 +1,3 @@
+In this setup we used docker to run redis container.
+Command-docker run -d -p 6379:6379 --name redis redis
+Prereq- Docker desktop
